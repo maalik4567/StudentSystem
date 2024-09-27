@@ -3,6 +3,7 @@
 -  ADO.NET with Dapper ORM ( where as different procedure being called)
 - MS SQL
 ## **Important knowledge about enable CORS in .NET Framework v4.8**
+- Install the Package Microsoft.AspNet.WebApi.Cors
 - Go at path in your .NET Project at App_Start/WebApi.Config.cs
      - Enable the Cors writing this Line of Code
      - config.EnableCors();
